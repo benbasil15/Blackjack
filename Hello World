@@ -1,0 +1,12 @@
+import java.util.ArrayList;
+public class bjMain {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+	}
+
+	public void start(){//sets the game up
+		Deck startDeck;//the deck is created
+		
+	}
+}
